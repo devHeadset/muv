@@ -1,3 +1,3 @@
 # muv
 
-not a package manager but if i want it to be it may be in the future
+muv is a simple project manager and build tool for C projects.
